@@ -1,7 +1,5 @@
 # UniCoder: Scaling Code Large Language Model via Universal Code
 
-**WIP**
-
 [![](https://img.shields.io/badge/arXiv-2406.16441-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2406.16441)
 
 
